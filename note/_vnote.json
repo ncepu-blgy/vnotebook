@@ -1,0 +1,308 @@
+{
+    "created_time": "2020-12-17T06:34:44Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "100-days-challenge.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "arxiv-preprint.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "awesome-data-set.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "awesome-google-colab.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "awesome-jupyter.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "awesome-web.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "book-tutorial-plan.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "buku.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "color-science.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "compiler-interpreter.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "essay-writing-tips.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "gadget.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "google-hacking.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "kbbi-teknik.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "licenses.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "machine-learning-glossary.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "ncbi-paper-with-code.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "open-dataset.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "open-directory-search.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "open-healthcare-library.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "patent.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "readme.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "regex.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "unicode.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "vexillology-flag.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "vlog-tool.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "vnote.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "windows-app.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "writing-plain-english.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:35:00Z",
+            "modified_time": "2020-12-17T06:35:00Z",
+            "name": "zettelkasten.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

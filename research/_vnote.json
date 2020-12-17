@@ -1,0 +1,168 @@
+{
+    "created_time": "2020-12-17T06:37:15Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "awesome-nlp.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "covid-ct-scan-classification.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "emotion-detection.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "face-expression-detection.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "face-mask-detection.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "journal-article.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "latex-app.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "machine-learning-metric.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "ml-satellite-image.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "ml-sport-pose.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "nlp-gpt.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "nlp-indonesia.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "nlp-model.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "readme.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "robotic-simulator.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-12-17T06:37:27Z",
+            "modified_time": "2020-12-17T06:37:27Z",
+            "name": "safety-helmet-detection.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
