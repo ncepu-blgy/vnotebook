@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Safety Helmet Detection
 date: 2020-11-29 19:37:58
-path: /research
 category: research
 tags: safety helmet detection
 draft: false
