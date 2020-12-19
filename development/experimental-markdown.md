@@ -4,7 +4,7 @@ author: irosyadi
 title:  Experimental Markdown
 date: 2020-11-26 21:10:40
 category: development
-tags: experimental markdown
+tags: ["markdown"]
 draft: false
 ---
 
@@ -48,17 +48,23 @@ Here is the comment:
 
 ## Iframe
 ```
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ```
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Internal Reference
 
-Content of the up folder (with ../ and without .md):
-- [Hello](./development/hello)
-- [Blog](./blog/blog)
+Content of the up folder (`[Blog Markdown](../development/blog-markdown.md)`)
+- [Blog Markdown](../development/blog-markdown.md) : working on jekyll-rtd, gitbook, fail on gatsby
+- [Blog](../blog/readme.md) : working on jekyll-rtd, fail on gitbook, fail on gatsby
 
-Content of the up folder (with ../ and .md): (working on Viki)
-- [Hello](../development/hello.md)
-- [Blog](../blog/blog.md)
+Content of the up folder (`[Hello](../development/blog-markdown)`)
+- [Hello](../development/blog-markdown)  : working on jekyll-rtd, fail on gitbook, fail on gatsby
+- [Blog](../blog/readme) : fail on jekyll-rtd, fail gitbook, fail on gatsby
+
+Content of the up folder (`[Hello](../development/blog-markdown/)`)
+- [Hello](../development/blog-markdown/) : working on jekyll-rtd, fail on gitbook, fail on gatsby
+- [Blog](../blog/readme/) : fail on jekyll-rtd, fail on gitbook, fail on gatsby
+
+- Gatsby understands only link under its folder

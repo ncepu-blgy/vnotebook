@@ -4,11 +4,9 @@ author: irosyadi
 title:  Awesome Maps
 date: 2020-06-16 19:51:58
 category: app
-tags: awesome map
+tags: ["map"]
 draft: false
 ---
-
- A curated list of awesome online maps
 
 # Awesome Maps
 
@@ -99,6 +97,7 @@ draft: false
 
 - [Google Earth](https://earth.google.com/web/) - 3D view of the earth in space.
 - [Dark Sky Map](https://maps.darksky.net/?3d) - 3D earth with different data layers.
+- [Blue Marble](https://bluemarble.nitk.in/static.html)
 
 ## Social Humanity
 - [Million Neighborhoods](https://millionneighborhoods.org/) - Map of slums or informal settlements.

@@ -4,13 +4,13 @@ author: irosyadi
 title:  Machine Learning Glossary
 date: 2020-07-11 20:29:35
 category: note
-tags: machine learning glossary
+tags: ["machine learning", "glossary"]
 draft: false
 ---
 
-These are references for an upcoming book about terms in machine learning.
-
 # Machine Learning Glossary
+
+These are references for an upcoming book about terms in machine learning.
 
 List:
 - [Google ML Glossary](https://developers.google.com/machine-learning/glossary)

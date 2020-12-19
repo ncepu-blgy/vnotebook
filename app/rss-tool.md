@@ -4,11 +4,9 @@ author: irosyadi
 title:  RSS Tools
 date: 2020-06-21 19:53:54
 category: app
-tags: rss tool
+tags: ["rss"]
 draft: false
 ---
-
-List of RSS Tools.
 
 # RSS Tools
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  Complete Markdown Cheatsheet
 date: 2020-06-29 21:10:40
 category: markdown
-tags: complete markdown cheatsheet
+tags: ["markdown"]
 draft: false
 ---
 
@@ -12,7 +12,7 @@ draft: false
 
 Common Mark Implementation
 
-# 1. Basic Markdown
+## 1. Basic Markdown
 ---
 ## 1.1. Heading
 
@@ -20,7 +20,6 @@ Common Mark Implementation
 ***Syntaxes***
 
 ```md
-# h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -30,7 +29,6 @@ Common Mark Implementation
 
 ***Showcases***
 
-# h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -532,7 +530,7 @@ ___
 
 ***
 
-# 2. Extended Markdown
+## 2. Extended Markdown
 ---
 
 ## 2.1. Heading ID

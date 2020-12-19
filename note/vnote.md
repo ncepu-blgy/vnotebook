@@ -1,14 +1,12 @@
 ---
 layout: default
 author: irosyadi
-title:  VNote User GUide
+title:  VNote User Guide
 date: 2020-06-29 19:34:47
 category: note
-tags: vnote
+tags: ["vnote", "note taking"]
 draft: false
 ---
-
-VNote is a markdown editor and processor.
 
 # VNote User Guide
 

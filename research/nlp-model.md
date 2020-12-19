@@ -4,7 +4,7 @@ author: irosyadi
 title:  NLP Models
 date: 2020-10-11 21:15:53
 category: research
-tags: nlp model
+tags: ["nlp", "machine learning"]
 draft: false
 ---
 
@@ -23,3 +23,4 @@ draft: false
     - Flair
 - **Other Pretrained Models**
     - StanfordNLP
+- [Reimplementation of NLP models in Jupyter](https://github.com/will-thompson-k/deeplearning-nlp-models)
