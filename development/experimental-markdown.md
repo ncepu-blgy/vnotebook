@@ -70,5 +70,5 @@ Content of the up folder (`[Hello](../development/blog-markdown/)`)
 - Gatsby understands only link under its folder
 
 ## Image Hosting in Github
-![QR Code Image](_v_images/20201220182121762_23942.png =200x)
-![QR Imron](file:///C:/Users/imron/Pictures/foto%20imron/imron-qr/QR%20Code%20Image.png)
+![QR Code Image-small](_v_images/20201220183102525_18817.png)
+![Test QR Code](file:///C:/Users/imron/Pictures/foto%20imron/imron-qr/QR%20Code%20Image-small.png)
