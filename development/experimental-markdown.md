@@ -72,3 +72,4 @@ Content of the up folder (`[Hello](../development/blog-markdown/)`)
 ## Image Hosting in Github
 ![QR Code Image-small](_v_images/20201220183102525_18817.png)
 ![Test QR Code](file:///C:/Users/imron/Pictures/foto%20imron/imron-qr/QR%20Code%20Image-small.png)
+![QR Code Image-small.png](_v_attachments/20201220181942360_3572/QR%20Code%20Image-small.png)
