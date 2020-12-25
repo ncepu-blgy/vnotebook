@@ -34,7 +34,21 @@ draft: false
 - [typesense](https://typesense.org/) - open source
 - [Mojeek](https://www.mojeek.com/) - privacy oriented
 
+## Archive.org Search Engine
+- [Archive.org Book Search](https://archive.org/details/texts)
+- [Archive.org Movie Search](https://archive.org/details/movies)
+- [Archive.org Audio Search](https://archive.org/details/audio)
+- [Archive.org Software Search](https://archive.org/details/software)
+- [Archive.org Image Search](https://archive.org/details/image)
+
 ## Specific Search Engine
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
 - [Sourcegraph Code Search](https://sourcegraph.com/search)
 - [Recipe Search](https://recipe-search.typesense.org/) : recipe search
+- [Programmable Search Engine alias Google Custom Search Engine](https://programmablesearchengine.google.com/) Google for specific sites we defined
+- [Diva Thesis Search](https://www.diva-portal.org/smash/search.jsf?dswid=-4671)
+
+## Programmable Search Engine
+* [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:t6yq5j3glzk)
+* [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:z6sb5swu8zm)
+* [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:owj6ymgttag)

@@ -10,10 +10,13 @@
             "name": "blog"
         },
         {
+            "name": "note"
+        },
+        {
             "name": "app"
         },
         {
-            "name": "note"
+            "name": "research"
         },
         {
             "name": "book"
@@ -22,13 +25,13 @@
             "name": "course"
         },
         {
+            "name": "howto"
+        },
+        {
             "name": "development"
         },
         {
             "name": "markdown"
-        },
-        {
-            "name": "research"
         },
         {
             "name": "catatan"
