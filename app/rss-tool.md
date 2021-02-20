@@ -16,6 +16,7 @@ draft: false
 - [RSS Hub](https://github.com/DIYgod/RSSHub)
 - [RSS Proxy](https://rssproxy.migor.org/) [GitHub](https://github.com/damoeb/rss-proxy/)
 - [Pipes Digital](https://pipes.digital/) [Doc RSS Hub](https://docs.rsshub.app/en/)
+- [RSS Feed Generator, Create RSS feeds from URL](https://rss.app/)
 
 ## RSS Reader
 - [Feed 43](https://feed43.com/)
@@ -26,3 +27,7 @@ draft: false
 
 ## RSS Search
 - [DatoRSS](https://www.datorss.com/) RSS Search Engine
+
+## RSS to HTML
+- [RSS 2 HTML](https://rss.bloople.net/)
+- [FREE Feed Widget. Fully Customisable and Easy To Use. Up to 5 feeds](https://surfing-waves.com/feed.htm)

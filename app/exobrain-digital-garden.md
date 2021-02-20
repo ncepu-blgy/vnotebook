@@ -46,12 +46,14 @@ draft: false
 22. [Mike Tannenbaum](https://mind.miketannenbaum.com/) 
 23. [David Seah](https://davidseah.gitbook.io/davidseah/) Stacks: Gitbook
 24. [Mental Nodes](https://www.mentalnodes.com/) Stacks: Tiddlywiki
+25. [Home · Scott Spence](https://scottspence.com/) Stacks: Gatsby
 
 
 ## List of Second Brain Blog
 1. [Second Brain](https://github.com/KasperZutterman/Second-Brain)
 2. [Meta Knowledge](https://github.com/RichardLitt/meta-knowledge)
 3. [Wiki Workflow](https://wiki.nikitavoloboev.xyz/other/wiki-workflow)
+4. [Google Sheet List](https://docs.google.com/spreadsheets/d/1KtEjnuZEHxUmoiA37_MMM4OFyQcbwVUaLBFa12P8cnU/edit#gid=0)
 
 ## Apps for Second Brain Blog
 - Gitbook
@@ -63,3 +65,6 @@ draft: false
    - [Mathieu Dutour](https://mathieudutour.github.io/gatsby-digital-garden/) [Gatsby Digital Garden](https://github.com/mathieudutour/gatsby-digital-garden/)
    - [Zettels](https://github.com/crisrojas/Zettels) [Hugokasten](https://hugokasten.netlify.app/features.html)
    - [Neuron Template](https://github.com/srid/neuron-template) [Neuron Zettel](https://neuron.zettel.page/)
+* [binyamin/eleventy-garden: A starter site for building a mind garden with eleventy](https://github.com/binyamin/eleventy-garden)
+* [crisrojas/Zettels: Zettels Hugo Theme](https://github.com/crisrojas/Zettels)
+    * [Punto de entrada - crisrojas](https://www.crisrojas.com/notes/)

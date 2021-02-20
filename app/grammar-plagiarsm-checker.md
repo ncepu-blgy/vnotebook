@@ -33,6 +33,20 @@ draft: false
         - start with `java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port 8081 --allow-origin "*"`
         - Test the server with [http://localhost:8081/v2/check?language=en-US&text=my+text](http://localhost:8081/v2/check?language=en-US&text=my+text)
         - In windows, run on `cmd` not `powershell`.
+* [Grammar Check - Free Essay Checker | Virtual Writing Tutor](https://virtualwritingtutor.com/)
+* [Online Text Correction](https://www.onlinecorrection.com/)
+* [Online Editor – Grammar Checker](https://www.grammarcheck.net/editor/)
+* [Free Grammar Checker Online – Ginger Software](https://www.gingersoftware.com/grammarcheck)
+* [Hemingway Editor](http://www.hemingwayapp.com/)
+* [Slick Write | Check your grammar. Proofread online.](https://www.slickwrite.com/#!home)
+* [After the Deadline - Spell, Style, and Grammar Checker for WordPress, Firefox, TinyMCE, jQuery, and CKEditor](https://www.afterthedeadline.com/)
+* [Writefull](https://writefull.com/)
+* [amperser/proselint: A linter for prose.](https://github.com/amperser/proselint) writing assistant (dead project)
+* [textlint · The pluggable linting tool for text and markdown](https://textlint.github.io/)
+    * [textlint: Proofreader - Chrome Web Store](https://chrome.google.com/webstore/detail/textlint-proofreader/hdongmdneapmhfblomidbafplpanpdmm)
+    * [Collection of textlint rule · textlint/textlint Wiki](https://github.com/textlint/textlint/wiki/Collection-of-textlint-rule)
+* [guardian/prosemirror-typerighter: The client-side companion to Typerighter. Match ranges with spellchecker-like semantics in Prosemirror documents.](https://github.com/guardian/prosemirror-typerighter)  a plug in
+
 
 ## Firefox Add Ons
 - [Grammar and Spell Checker - LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool)

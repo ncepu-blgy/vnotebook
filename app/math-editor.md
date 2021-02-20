@@ -19,7 +19,7 @@ draft: false
 - [Whats That Formula](https://whatsthatformula.com/#)
 - [Equplus](https://equplus.net/)
 - [DLMF NIST](https://dlmf.nist.gov/)
-* [Free Think Calculator Online](https://www.thinkcalculator.com/)
+- [Free Think Calculator Online](https://www.thinkcalculator.com/)
 
 ## Mathematical Symbols
 - [List of Math Symbols](https://mathvault.ca/hub/higher-math/math-symbols)
@@ -27,6 +27,7 @@ draft: false
 ## Online Math Calculator
 - [Desmos](https://www.desmos.com/)
 - [Insect](https://insect.sh/)
+- [Math Notepad](http://mathnotepad.com/)
 
 ## Online Math Solver
 - [Step-by-Step Calculator - Symbolab](https://www.symbolab.com/solver/step-by-step/)
