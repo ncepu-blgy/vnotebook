@@ -10,23 +10,13 @@ draft: false
 
 # Alternative Frontend of Popular Websites
 
+💡 Alternative frontends offer ad-free and light browsing experiences.  
+💡 Alternative frontends also offer better user experiences than their original apps.
+
 ## Twitter
 - [Twitter](https://twitter.com/)
   - [Nitter](https://nitter.net/)
   - [Nitter Instances List](https://github.com/zedeus/nitter/wiki/Instances)
-
-## Wikipedia
-- [Wikipedia](https://www.wikipedia.org/)
-  - [Wikiwand](https://www.wikiwand.com/)
-  - [Moesalih](https://wikipedia.moesalih.com/)
-  - [The Reader Wiki](https://thereaderwiki.com/en/)
-
-## Youtube
-- Youtube
-  - [Invidious](https://invidio.us/) : [Invidious Instances List](https://instances.invidio.us/), [Invidious Instances List](https://github.com/iv-org/invidious/wiki/Invidious-Instances), [Invidious Instances List](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)
-  - [Flvto](https://flvto.video/) YT Downloader
-- [Hieroglyph](https://hierogly.ph/) get youtube transcript or transcibe text
-    - alternative: ` youtube-dl --sub-langs [DESIRED LANGUAGE]`
 
 ## Instagram
 - Instagram

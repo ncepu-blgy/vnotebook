@@ -1,26 +1,47 @@
 ---
 layout: default
 author: irosyadi
-title:  Kosa Kata KBBI untuk Teknik Elektro
+title:  Istilah Baku di Bidang Teknik Elektro
 date: 2020-09-15 05:34:36
 category: catatan
-tags: ["kbbi", "kosa kata", "teknik elektro"]
+tags: ["kbbi", "kosakata", "teknik elektro"]
 draft: false
 ---
 
-# Kosa Kata KBBI untuk Teknik Elektro
+# Istilah Baku di Bidang Teknik Elektro 
+
+Istilah baku di bidang teknik elektro berdasar KBBI dan Pedoman Pembentukan Istilah.
+
+## Contoh Kata Baku dan Tidak Baku
+- *analisis* bukan *analisa*
+- *diode*  bukan *dioda*
+- *foto*  bukan *photo*
+- *furnitur* bukan *furniture*
+- *algoritme* bukan*algoritma*
+- *pelat* bukan *plat*
+- *objek* bukan *obyek*
+- *nomor* bukan *nomer*
+- *saraf* bukan *syaraf*
+- *otomatis* bukan *otomatik* atau *automatis*
+- *video* bukan *vidio*
+- *klona* bukan *kloning*
+- *pengklonaan* bukan *pengkloningan*
+- *relai* bukan *relay*
+- *praktik* bukan *praktek*
+- *apotek* bukan *apotik*  
+
+## Penerapan Kata yang Salah
+- ganti:*ubah*, *mengubah*, bukan *rubah*, *merubah*
+- preposisi "di" adalah penanda tempat, sedangkan "pada" adalah penanda kata-kata yang menyatakan makhluk hidup (orang, binatang), benda abstrak (waktu, situasi).
+- preposisi "pada" berubah menjadi "kepada" dan preposisi "di" menjadi "ke" jika menandakan suatu arah atau tujuan.
+
+## Kata sinonim
+- *linear* dan *linier*
 
 ## Kata berikut (ternyata) kosa kata bahasa Indonesia
 - *plan* : rencana
 
-## Kata Baku dan Tidak Baku
-- *analisis* : bentuk tidak baku *analisa*
-- *diode* : bentuk tidak baku *dioda*
-- *foto* : bentuk tidak baku *photo*
-- *furniture* : bentuk tidak baku *furnitur*
-- *algoritme* : bentuk tidak baku *algoritma*
-
-## Terjemah Kata Bahasa Inggris
+## Kamus Istilah Keteknikelektroan
 - *server* : peladen
 - *overview* : ikhtisar, ijmal
 - *diode* : diode
@@ -28,3 +49,8 @@ draft: false
 - *time-invariant* : waktu tak berubah
 - *Cartesian* : Cartesian
 - *output* : keluaran
+
+## Kamus Istilah Non elektro
+- Masuk angin: _cold symptoms_
+- Kerokan: _coining_
+

@@ -69,7 +69,13 @@ Here is the comment:
 <iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ```
 
+<div>
 <iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<div>
+<iframe src="http://eth0.me/" frameborder="0" width="100" height="50"</iframe>
+</div>
 
 ## Image Hosting in Github
 
@@ -78,4 +84,3 @@ Here is the comment:
 
 ## SVG
 ![crocodile](http://snapsvg.io/assets/images/crocodile.svg)
-![Garuda Pancasila](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/indonesia.svg)

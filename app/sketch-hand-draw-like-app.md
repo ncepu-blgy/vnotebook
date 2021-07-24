@@ -17,6 +17,7 @@ draft: false
 - [Excalidraw](https://excalidraw.com/) : [Github link](https://github.com/excalidraw/excalidraw)
 - [Zwibbler](https://zwibbler.com/demo/)
 - [Sketchviz](https://sketchviz.com/new) : [Graphviz](https://www.graphviz.org/) in sketch or draw style.
+- [WebSequenceDiagrams](https://www.websequencediagrams.com/)
 
 ## Draw Chart using XKCD Style
 - [Chart XKCD](https://timqian.com/chart.xkcd/)
@@ -25,7 +26,7 @@ draft: false
 
 ## Typing Text in Handwritten Style
 - [Handwriting Generation](https://seanvasquez.com/handwriting-generation/)
-- [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/)
+- [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/), [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
 - [Handwritten.js](https://alias-rahil.github.io/handwritten.js/)
 
 ## Font from Handwritten

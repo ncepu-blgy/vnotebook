@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  All about Unicode
+title:  Unicode and Emoji
 date: 2020-08-17 20:33:28
 category: note
 tags: ["unicode", "punycode", "emoji", "kaomoji"]
 draft: false
 ---
 
-# All about Unicode
+# Unicode and Emoji
 
 Unicode is an information technology (IT) standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. Within Unicode encoding, there are subsets called emoji to represent pictorial expression in characters. While Unicode is an important piece of work, it has some kind of messy structure. That's why we have puny code.
 
@@ -20,6 +20,10 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 ## Unicode Font
 - [Unifont ](https://unifoundry.com/unifont/index.html), font for all existing Unicode
 
+## Unicode Recognition
+- [Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)
+- [Detexify LaTeX handwritten symbol recognition](https://detexify.kirelabs.org/classify.html)
+
 ## Unicode Search
 - [Unicode Search](https://unicodelookup.com/)
 - [Unicode Search](https://unicode-search.net/)
@@ -28,6 +32,7 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Unicode Character Recognition](https://shapecatcher.com/)
 - [Copy Character](https://copychar.cc/)
 - [Copy and Paste Symbols 🔥 HotSymbol](https://www.hotsymbol.com/)
+- [Unicode Lookup](https://unicode.emnudge.dev/)
 
 ## Emoji
 - [Emojipedia](https://emojipedia.org/) : Emoji search and explanation
@@ -43,6 +48,14 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Emoji Homepage](http://emojihomepage.com/)
 - [Lunicode](https://lunicode.com/flip)
 - [😋 Get Emoji — All Emojis to ✂️ Copy and 📋 Paste 👌](https://getemoji.com/)
+
+
+## Emoji as Favicon
+- [SVG Emoji Favicons](https://emojifav.com/)
+- [fav.farm](https://fav.farm/)
+- `<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>EMOJI GOES HERE</text></svg>">`
+- [Emojicons](https://emojicons.netlify.app/) Emoji to SVG
+
 
 ## Unicode Tools
 - [String Length and Byte Counter](https://mothereff.in/byte-counter) : calculate length of string and byte in a Unicode text
@@ -87,3 +100,6 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [Better Explained](https://betterexplained.com/articles/unicode/)
 - [Delicious Brains](https://deliciousbrains.com/how-unicode-works/)
 - [Unicode Explained Book](https://flylib.com/books/en/1.536.1/)
+
+## Emoji
+- [Emoji under the hood @ tonsky.me](https://tonsky.me/blog/emoji/)

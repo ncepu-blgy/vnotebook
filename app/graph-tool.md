@@ -10,24 +10,11 @@ draft: false
 
 # Graph Tools and Apps
 
-## Graph Editor
-- [Web Graphviz](https://www.webgraphviz.com/) : Web based graphviz
-- [Edotor](https://edotor.net/)
-- [Plant UML](https://plantuml.com/)
-- [Gravizo](https://www.gravizo.com/) for show in web
-- [Python Implementation](https://github.com/mingrammer/diagrams)
-
-## Programmable Graph Editor
-- [Sketchviz](https://sketchviz.com/new) Grahphviz in sketch style
-- [Gephi](https://gephi.org/) Open source Graph Visualization Software
-- [Graphviz](https://www.graphviz.org/) : Programming language for drawing graphs
-
 ## Graphics language 
 - [Asymptote](https://asymptote.sourceforge.io/)
 - [PyX](https://en.wikipedia.org/wiki/PyX_(vector_graphics_language))
 - [Tikz](https://github.com/pgf-tikz/pgf)
 - [PSTricks](https://en.wikipedia.org/wiki/PSTricks)
-
 
 ## Geometry
 * [GeoGebra | Free Math Apps - used by over 100 Million Students & Teachers Worldwide](https://www.geogebra.org/), [Geogebra Download](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation)
@@ -42,5 +29,8 @@ draft: false
 - [Graph Toy](http://memorystomp.com/graphtoy/)
     - [Graphtoy](http://www.iquilezles.org/apps/graphtoy/) : original version
 
-## Online Database
-- [Baserow](https://baserow.io/) Alternative to Airtable
+
+## Graphics and Plotter
+- [touchplot.com - Online plotter and graphing tool - Create graphs and charts online.](https://touchplot.com/#)
+- [Online Graph Maker · Plotly Chart Studio](https://chart-studio.plotly.com/create/#/)
+- [Online Graph Maker - Plotvar](http://www.plotvar.com/index.php)

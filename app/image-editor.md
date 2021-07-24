@@ -27,6 +27,7 @@ draft: false
 ## Background Removal
 - [Remove BG](https://www.remove.bg/) : remove background with AI
 - [Erase BG](https://erase.bg/) : remove background with AI
+- [RemoveBackground.app](https://removebackground.app/)
 
 ## Dithering
 - [Dithering Image](https://ditherit.com/)
@@ -39,5 +40,7 @@ draft: false
 ## Fast Converter
 - [Vector Magic](https://vectormagic.com/) image to vector (convert JPG, PNG, BMP, and GIF bitmap images to true SVG, EPS, and PDF vector images)
 
-## Image
+## Image Compressor
 - [TinyPNG](https://tinypng.com/) compress PNG to APNG
+- [Squoosh](https://squoosh.app/)
+- [GIF Compressor – Compress GIF Animations Online](https://gifcompressor.com/)

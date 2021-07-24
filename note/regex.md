@@ -35,9 +35,13 @@ draft: false
 
 ## Regex Generator
 - [Regex Inginf](https://regex.inginf.units.it/)
+- [GitHub - pemistahl/grex: A command-line tool and library for generating regular expressions from user-provided test cases](https://github.com/pemistahl/grex)
 
 ## Regex Learn List
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex)
+
+## Regex Games
+- [Regex Crossword](https://m.regexcrossword.com/)
 
 ## Regex Books and Tutorials
 - [Learn by Example](https://learnbyexample.github.io/books/)

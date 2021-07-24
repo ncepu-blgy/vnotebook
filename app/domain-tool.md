@@ -1,46 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Domain Tool
+title:  DNS and Domain Tools
 date: 2020-06-16 19:52:40
 category: app
-tags: ["domain"]
+tags: ["domain", "DNS"]
 draft: false
 ---
 
-# Domain Tools
-
-## What is My IP and Geolocation
-Input: -
-Output: IP Address, Geolocation
-- [IP Info](https://ipinfo.info/)
-- [IP-Address](https://www.ip-address.org/)
-- [What is My IP](https://www.whatismyip.com/)
-- [Toolsvoid](https://www.toolsvoid.com/what-is-my-ip-address/)
-- [Ifconfig](https://ifconfig.me/) `curl ifconfig.me`
-- [WTFismyIP](https://wtfismyip.com/)
-- [IPinfo.io](https://ipinfo.io/) `curl ipinfo.io` `(Invoke-WebRequest 'ipinfo.io').Content`
-- [HTTPBin](https://httpbin.org/ip) `curl httpbin.org/ip`
-- [IcanHazIP](https://icanhazip.com/) `curl icanhazip.com` `(Invoke-WebRequest 'icanhazip.com').Content`
-- [Ifconfig.io](https://ifconfig.co/) `curl ifconfig.co`
-- [CheckIP Amazon ](https://checkip.amazonaws.com/) `curl checkip.amazonaws.com`
-- [IPECho](https://ipecho.net/plain) `curl ipecho.net/plain`
-
-## Reverse IP
-Input: Domain Name
-Output: IP
-
-- [IP Info](https://ipinfo.info/html/ip_checker.php)
-- [IP-Address](https://www.ip-address.org/reverse-lookup/reverse-ip.php)
-- [What is My IP](https://www.whatismyip.com/)
-- [Toolsvoid](https://www.toolsvoid.com/ip-address-lookup/)
-- [Toolsvoid](https://www.toolsvoid.com/domain-to-ip/)
-- [Hacker Targe](https://hackertarget.com/reverse-ip-lookup/)
-- [Yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/)
-- [WhatisMyIPAddress](https://whatismyipaddress.com/hostname-ip)
-- [Check Host](https://check-host.net/ip-info?)*
-- [DNS Checker](https://dnschecker.org/#A/) Check DNS Propagation
-- [host.io](https://host.io/)
+# DNS and Domain Tools
 
 ## Privacy Check
 Input: -
@@ -69,7 +37,6 @@ Output: Geolocation, Ownership
 
 ## Public DNS
 - [Public DNS Info](https://public-dns.info/)
-
 
 ## DNS Tools
 - [Centralops](https://centralops.net/co/)
